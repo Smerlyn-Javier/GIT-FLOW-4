@@ -1,0 +1,44 @@
+{
+    "gitflow4code.features": [
+        {
+            "name": "feature/task1",
+            "base": "develop"
+        },
+        {
+            "name": "feature/task2",
+            "base": "develop"
+        },
+        {
+            "name": "feature/task3",
+            "base": "develop"
+        }
+    ],
+    "gitflow4code.hotfixes": [
+        {
+            "name": "hotfix/bug1",
+            "base": "master"
+        },
+        {
+            "name": "hotfix/bug2",
+            "base": "master"
+        },
+        {
+            "name": "hotfix/bug3",
+            "base": "master"
+        }
+    ],
+    "gitflow4code.releases": [
+        {
+            "name": "release/R1",
+            "base": "develop"
+        },
+        {
+            "name": "release/R2",
+            "base": "develop"
+        },
+        {
+            "name": "release/R3",
+            "base": "develop"
+        }
+    ]
+}
